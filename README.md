@@ -10,6 +10,14 @@ In the rapidly evolving banking sector, customer retention has become a critical
 - [Matplotlib]
 - [Seaborn]
 
+## Dashboard
+
+![Fintech Churn](https://github.com/Siddhu-T/Fintech-Churn-Analysis/assets/101640915/dcf0b124-d7dd-4ac5-9d9e-49168fa38aa7)
+
+## Link to Tableau Dashboard
+
+https://public.tableau.com/views/FintechChurnAnalysis/FintechChurn?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 ## Recommendations
 
 - **Expand Marketing Efforts in Germany and Spain**: Since 50% of customers are from France, focus marketing campaigns on Germany and Spain to boost
